@@ -1,8 +1,10 @@
 ### Hey! 👋
 
 <table align="right">
- <tr><td><a href="README.md">:us:&nbsp;English</a></td></tr>
- <tr><td><a href="README_en.md">:brazil:&nbsp;Português</a></td></tr>
+ <tr><td><a href="README.md">:brazil:&nbsp;Português</a></td></tr>
+ <tr><td><a href="README_en.md">:us:&nbsp;English</a></td></tr>
+ <tr><td><a href="README_de.md">:de:&nbsp;Deutsch</a></td></tr>
+
 </table>
 
 ###
