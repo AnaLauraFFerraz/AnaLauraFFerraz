@@ -7,9 +7,9 @@
 
 ###
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Estudando Engenharia de Software na Driven Education\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Graduanda em Engenharia Civil pela Universidade Federal de Ouro Preto\
-&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Desenvolvendo o EMverso, jogo em Unreal Engine 
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Studying Software Engineering at Driven Education\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Civil Engineering Student at the Federal University of Ouro Preto\
+&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Developing EMverso, Unreal Engine game
 
 ###
 
