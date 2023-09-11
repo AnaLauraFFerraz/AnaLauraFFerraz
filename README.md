@@ -2,8 +2,8 @@
 
 </br>
 
-- :books: **Full Stack Developer** trained at [Driven Education](https://www.driven.com.br/)
-- :hammer_and_wrench: **Civil Engineering Student** at Universidade Federal de Ouro Preto
+- 💻 **Full Stack Developer** trained at [Driven Education](https://www.driven.com.br/)
+- 🛠️ **Civil Engineering Student** at Federal University of Ouro Preto
 - 🚀 Always eager to learn and take on new challenges.
 
 </br>
