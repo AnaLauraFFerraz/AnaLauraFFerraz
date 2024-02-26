@@ -3,7 +3,7 @@
 </br>
 
 - 💻 **Full Stack Developer** trained at [Driven Education](https://www.driven.com.br/)
-- 🛠️ **Civil Engineering Student** at Federal University of Ouro Preto
+- 🛠️ **Civil Engineer** graduated at Federal University of Ouro Preto
 - 🚀 Always eager to learn and take on new challenges.
 
 </br>
