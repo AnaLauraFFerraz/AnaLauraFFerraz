@@ -8,15 +8,6 @@
 
 </br>
 
-## 📈 GitHub Stats
-</br>
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnaLauraFFerraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </br></br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AnaLauraFFerraz" height="150" alt="languages graph"  />
-</div>
-</br>
-
 <h2 align="left">💻 Technologies and Tools</h2>
 
 **Front-end**   
