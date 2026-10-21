@@ -39,6 +39,17 @@ I have a degree in Civil Engineering, which makes me comfortable in technical fi
 
 <br>
 
+## 🏎️ Featured project: F1 24 telemetry
+
+A real-time telemetry platform for the F1 24 game. [TelemetryF1_API](https://github.com/AnaLauraFFerraz/TelemetryF1_API) parses the game's UDP stream, stores it in SQLite, analyses each lap and explains it with an AI coach that only receives facts the code has already computed. [Telemetry-F1](https://github.com/AnaLauraFFerraz/Telemetry-F1) shows it live in a React dashboard, with charts, a track map and lap comparison.
+
+New work in both repositories follows **Spec Driven Development** with GitHub Spec Kit: each feature starts as a spec, goes through clarification, a plan backed by measured research and a task list, and only then is implemented. Specs, plans and evidence are public:
+
+- [Real-time replay](https://github.com/AnaLauraFFerraz/TelemetryF1_API/tree/main/specs/001-realtime-replay): replaying a recorded session at its original pace delivers all 2,411 telemetry samples, up from 354 (14.6%) without pacing.
+- CI for the [API](https://github.com/AnaLauraFFerraz/TelemetryF1_API/tree/main/specs/002-github-actions-ci) and the [dashboard](https://github.com/AnaLauraFFerraz/Telemetry-F1/tree/main/specs/001-ci-github-actions): required checks on every pull request and a protected `main`, with each rule proven by trying to break it (blocked merges, a refused direct push).
+
+<br>
+
 ## 📈 Contact
 
 <br>
